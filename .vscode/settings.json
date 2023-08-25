@@ -1,13 +1,8 @@
 {
-    "python.testing.pytestArgs": [
-        "hello-world"
-    ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-}
-
-{
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
     "python.pythonPath": "C:\\Users\\DanielAguirre\\anaconda3\\envs\\exercism\\python.exe",
     "python.terminal.activateEnvironment": true,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
 }
